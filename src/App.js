@@ -29,11 +29,9 @@ class App extends Component {
     AirForceWriterLink(){
         window.open("http://www.airforcewriter.com/officialmemorandum.htm");
     }
-    TheTongueAndQuillLink(){
-        window.open("https://static.e-publishing.af.mil/production/1/saf_cio_a6/publication/afh33-337/afh33-337.pdf");
-    }
+    
     GitHubLink(){
-        window.open("https://github.com/organic-penguin/OfficialMemorandumMaker")
+        window.open("https://github.com/Redxjak/ArmyMemoMaker")
     }
 
 
@@ -61,8 +59,7 @@ return (
         <Link to={'/memorandum'}><button style={{margin: '5px', height: '50px', display: 'inline'}}> Review </button></Link>
         <TESTParametersButton />
         <button style={{margin: '5px', height: '50px', display: 'inline'}} onClick={this.AirForceWriterLink} type="button">Air Force Writer</button>
-        <button style={{margin: '5px', height: '50px', display: 'inline'}} onClick={this.TheTongueAndQuillLink} type="button">The Tongue and Quill</button>
-        <button style={{paddingTop: '10px', margin: '5px', height: '50px', display: 'inline'}} onClick={this.GitHubLink} type="button">
+        <button style={ {paddingTop: '10px', margin: '5px', height: '50px', display: 'none'}} onClick={this.GitHubLink} type="button">
           <icon aria-hidden="true" className="fa fa-github fa-2x" /></button>
       </ul>
     </nav>
