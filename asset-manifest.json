@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css",
+    "main.js": "/ArmyMemoMaker/static/js/main.420890a4.chunk.js",
+    "main.js.map": "/ArmyMemoMaker/static/js/main.420890a4.chunk.js.map",
+    "runtime-main.js": "/ArmyMemoMaker/static/js/runtime-main.26b4941a.js",
+    "runtime-main.js.map": "/ArmyMemoMaker/static/js/runtime-main.26b4941a.js.map",
+    "static/js/2.5fb4ec1e.chunk.js": "/ArmyMemoMaker/static/js/2.5fb4ec1e.chunk.js",
+    "static/js/2.5fb4ec1e.chunk.js.map": "/ArmyMemoMaker/static/js/2.5fb4ec1e.chunk.js.map",
+    "index.html": "/ArmyMemoMaker/index.html",
+    "precache-manifest.56b966555e6b22bc89a385ec93957604.js": "/ArmyMemoMaker/precache-manifest.56b966555e6b22bc89a385ec93957604.js",
+    "service-worker.js": "/ArmyMemoMaker/service-worker.js",
+    "static/css/main.3833ceb4.chunk.css.map": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css.map",
+    "static/js/2.5fb4ec1e.chunk.js.LICENSE.txt": "/ArmyMemoMaker/static/js/2.5fb4ec1e.chunk.js.LICENSE.txt",
+    "static/media/DoD Seal.PNG": "/ArmyMemoMaker/static/media/DoD Seal.c4c16d8a.PNG",
+    "static/media/attnFromExample.JPG": "/ArmyMemoMaker/static/media/attnFromExample.c4c16d8a.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b4941a.js",
+    "static/js/2.5fb4ec1e.chunk.js",
+    "static/css/main.3833ceb4.chunk.css",
+    "static/js/main.420890a4.chunk.js"
+  ]
+}
