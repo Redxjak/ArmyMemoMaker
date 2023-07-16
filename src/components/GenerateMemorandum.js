@@ -146,7 +146,7 @@ class GenerateMemorandum extends Component {
 
 
     //HEADING
-    pdf.setFont('Times New Roman');
+    pdf.setFont('Ariel');
     //Date
     pdf.text(LSGETDATE, 7.5, DATEHEIGHT, null, null, "right");
 

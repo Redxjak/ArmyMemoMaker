@@ -29,6 +29,10 @@ class App extends Component {
     AR2550(){
         window.open("https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN36874-AR_25-50-004-WEB-7.pdf");
     }
+
+    Issues(){
+        window.open("https://github.com/Redxjak/ArmyMemoMaker/issues");
+    }
     
     GitHubLink(){
         window.open("https://github.com/Redxjak/ArmyMemoMaker")
@@ -44,7 +48,7 @@ render() {
 return (
 <HashRouter basename={process.env.PUBLIC_URL + '/#/'}>
   <div>
-    <h2>Wecome to the Official Memorandum Maker</h2>
+    <h2>Wecome to the Army Memo Maker!</h2>
 {/*
     <svg style={{width: '80'}} className="devCorner" viewBox="0 0 80 80" aria-hidden="true">
       <path fill="rgb(70, 74, 78)" d="M80 0L80 80L0 0L80 0Z"></path>
@@ -59,7 +63,8 @@ return (
         <Link to={'/memorandum'}><button style={{margin: '5px', height: '50px', display: 'inline'}}> Review </button></Link>
         <TESTParametersButton />
         <button style={{margin: '5px', height: '50px', display: 'inline'}} onClick={this.AR2550} type="button">Army Regulation 25-50</button>
-        <button style={ {paddingTop: '10px', margin: '5px', height: '50px', display: 'none'}} onClick={this.GitHubLink} type="button">
+        <button style={{margin: '5px', height: '50px', display: 'inline'}} onClick={this.Issues} type="button">Report an Issue</button>
+        <button style={ {paddingTop: '10px', margin: '5px', height: '50px', display: 'inline'}} onClick={this.GitHubLink} type="button">
           <icon aria-hidden="true" className="fa fa-github fa-2x" /></button>
       </ul>
     </nav>
