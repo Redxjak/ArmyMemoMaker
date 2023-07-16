@@ -60,7 +60,7 @@ class Home extends Component {
     var MEMOVAR = memorandum;
     this.convertParagraphArray(MEMOVAR.paragraphArray);
     if(MEMOVAR.department === null){
-      sessionStorage.setItem("department", "DEFAULT DEPARTMENT");
+      sessionStorage.setItem("department", "DEPARTMENT OF THE ARMY");
     }else{
       sessionStorage.setItem("department", MEMOVAR.department.toUpperCase());
     }
