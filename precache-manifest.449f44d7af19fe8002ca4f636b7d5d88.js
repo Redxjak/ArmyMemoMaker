@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8ca36b9ed9a86cc698abc1aff1b9ae5",
+    "revision": "2bdf77a05c765c9f9a8dd12914a12b59",
     "url": "/ArmyMemoMaker/index.html"
   },
   {
-    "revision": "0274bfe998f4a7cb7c62",
+    "revision": "c916b5cb086df487de54",
     "url": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArmyMemoMaker/static/js/2.5fb4ec1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0274bfe998f4a7cb7c62",
-    "url": "/ArmyMemoMaker/static/js/main.58333e2a.chunk.js"
+    "revision": "c916b5cb086df487de54",
+    "url": "/ArmyMemoMaker/static/js/main.25dc53b2.chunk.js"
   },
   {
     "revision": "3ea836e34286c8e586e6",
