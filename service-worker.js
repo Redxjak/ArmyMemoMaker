@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ArmyMemoMaker/precache-manifest.449f44d7af19fe8002ca4f636b7d5d88.js"
+  "/ArmyMemoMaker/precache-manifest.ba5c53c712d64e06353dd824462759b4.js"
 );
 
 self.addEventListener('message', (event) => {
