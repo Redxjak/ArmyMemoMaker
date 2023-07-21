@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f567d7f4311c86383fa375b75f65b1a8",
+    "revision": "867264e396fc58e3c905c092ad83bb81",
     "url": "/ArmyMemoMaker/index.html"
   },
   {
-    "revision": "c2ea2bdedc17c9458c59",
+    "revision": "d685070410b00f3c1284",
     "url": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css"
   },
   {
-    "revision": "c32b65746bb1beccd7d1",
-    "url": "/ArmyMemoMaker/static/js/2.cdf81a1e.chunk.js"
+    "revision": "6a8a3de9c21cf16db924",
+    "url": "/ArmyMemoMaker/static/js/2.258d1caa.chunk.js"
   },
   {
     "revision": "3c0593b56b59120cbbfa8405938d8538",
-    "url": "/ArmyMemoMaker/static/js/2.cdf81a1e.chunk.js.LICENSE.txt"
+    "url": "/ArmyMemoMaker/static/js/2.258d1caa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2ea2bdedc17c9458c59",
-    "url": "/ArmyMemoMaker/static/js/main.a12f63ce.chunk.js"
+    "revision": "d685070410b00f3c1284",
+    "url": "/ArmyMemoMaker/static/js/main.0c05d6ad.chunk.js"
   },
   {
     "revision": "3ea836e34286c8e586e6",
@@ -26,9 +26,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c4c16d8a7226dadca83937346bdfa0e5",
     "url": "/ArmyMemoMaker/static/media/DoD Seal.c4c16d8a.PNG"
-  },
-  {
-    "revision": "c4c16d8a7226dadca83937346bdfa0e5",
-    "url": "/ArmyMemoMaker/static/media/attnFromExample.c4c16d8a.JPG"
   }
 ]);

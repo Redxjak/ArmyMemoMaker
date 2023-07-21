@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css",
-    "main.js": "/ArmyMemoMaker/static/js/main.a12f63ce.chunk.js",
-    "main.js.map": "/ArmyMemoMaker/static/js/main.a12f63ce.chunk.js.map",
+    "main.js": "/ArmyMemoMaker/static/js/main.0c05d6ad.chunk.js",
+    "main.js.map": "/ArmyMemoMaker/static/js/main.0c05d6ad.chunk.js.map",
     "runtime-main.js": "/ArmyMemoMaker/static/js/runtime-main.26b4941a.js",
     "runtime-main.js.map": "/ArmyMemoMaker/static/js/runtime-main.26b4941a.js.map",
-    "static/js/2.cdf81a1e.chunk.js": "/ArmyMemoMaker/static/js/2.cdf81a1e.chunk.js",
-    "static/js/2.cdf81a1e.chunk.js.map": "/ArmyMemoMaker/static/js/2.cdf81a1e.chunk.js.map",
+    "static/js/2.258d1caa.chunk.js": "/ArmyMemoMaker/static/js/2.258d1caa.chunk.js",
+    "static/js/2.258d1caa.chunk.js.map": "/ArmyMemoMaker/static/js/2.258d1caa.chunk.js.map",
     "index.html": "/ArmyMemoMaker/index.html",
-    "precache-manifest.ba5c53c712d64e06353dd824462759b4.js": "/ArmyMemoMaker/precache-manifest.ba5c53c712d64e06353dd824462759b4.js",
+    "precache-manifest.c5107a48dbba83355004ab551b7dfdfb.js": "/ArmyMemoMaker/precache-manifest.c5107a48dbba83355004ab551b7dfdfb.js",
     "service-worker.js": "/ArmyMemoMaker/service-worker.js",
     "static/css/main.3833ceb4.chunk.css.map": "/ArmyMemoMaker/static/css/main.3833ceb4.chunk.css.map",
-    "static/js/2.cdf81a1e.chunk.js.LICENSE.txt": "/ArmyMemoMaker/static/js/2.cdf81a1e.chunk.js.LICENSE.txt",
-    "static/media/DoD Seal.PNG": "/ArmyMemoMaker/static/media/DoD Seal.c4c16d8a.PNG",
-    "static/media/attnFromExample.JPG": "/ArmyMemoMaker/static/media/attnFromExample.c4c16d8a.JPG"
+    "static/js/2.258d1caa.chunk.js.LICENSE.txt": "/ArmyMemoMaker/static/js/2.258d1caa.chunk.js.LICENSE.txt",
+    "static/media/DoD Seal.PNG": "/ArmyMemoMaker/static/media/DoD Seal.c4c16d8a.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.26b4941a.js",
-    "static/js/2.cdf81a1e.chunk.js",
+    "static/js/2.258d1caa.chunk.js",
     "static/css/main.3833ceb4.chunk.css",
-    "static/js/main.a12f63ce.chunk.js"
+    "static/js/main.0c05d6ad.chunk.js"
   ]
 }
